@@ -35,3 +35,4 @@ deploy:
     secure: $AWS_SECRET_KEY
 
   # added access key and secret key on Travis CI config
+  # set up elasticache and rds on aws
